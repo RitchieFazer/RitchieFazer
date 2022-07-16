@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning Python and linux
 - 💞️ I’m looking to collaborate on any beginner projects that can help me improve my programming skills
 - 📫 How to reach me :
-
-[email] (mailto:ritchie_fazer@hotmail.co.uk)
-
-[linkedIn] (https://www.linkedin.com/in/ritchie-fazer/)
+https://www.linkedin.com/in/ritchie-fazer/
 
 - I am currently working as a Microsoft Teams SME and can create scripts using PowerShell.
 
