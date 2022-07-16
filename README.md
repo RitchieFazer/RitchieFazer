@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on any beginner projects that can help me improve my programming skills
 - 📫 How to reach me :
 
-[Email] (ritchie_fazer@hotmail.co.uk)
+[email] (mailto:ritchie_fazer@hotmail.co.uk)
 
-[LinkedIn] (https://www.linkedin.com/in/ritchie-fazer/)
+[linkedIn] (https://www.linkedin.com/in/ritchie-fazer/)
 
 - I am currently working as a Microsoft Teams SME and can create scripts using PowerShell.
 
